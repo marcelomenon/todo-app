@@ -18,6 +18,7 @@ This To-Do List application is developed for iOS using SwiftUI, providing users 
   <img width="343" alt="Screenshot 2024-10-09 at 20 08 17" src="https://github.com/user-attachments/assets/d01f70d9-babd-4d40-83d8-0e75e58c4883">
 - **Task Completion:** Enables tasks to be marked as completed with a tap.
 - **Advanced Sorting:** Offers the ability to organize tasks based on their creation or completion dates.
+  <img width="341" alt="Screenshot 2024-10-09 at 20 12 27" src="https://github.com/user-attachments/assets/4a70a82a-a530-41ac-b253-17414da71f0b">
 - **Task Deletion:** Features a swipe-to-delete option to remove tasks from the list.
 
 ## Setup and Installation
